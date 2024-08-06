@@ -1,0 +1,8 @@
+persona(Carlos)
+persona(Luis)
+perro(Firulaiz)
+profesor(Brenda)
+amigos(Mares,Veliz)
+amigos(Jordi,Diana)
+Luis(20 años)
+Edad(Luis,20)

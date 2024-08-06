@@ -1,0 +1,8 @@
+-----------------------------------------
+haskell ejecución
+.hs
+
+ghci
+:l (nombre del archivo)
+(nombre de variable)
+-----------------------------------------
